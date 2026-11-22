@@ -7,7 +7,7 @@ This document specifies all 7 screens of the application.
 ## Screen 1: Home (`/`)
 - **Target User**: Salon customers on their smartphones or walk-in arrivals scanning a QR code.
 - **Header**:
-  - Salon branding: "Royal Shave Salon / રાજવી સલૂન" with scissors/crown icon.
+  - Salon branding: "Mister Cuts / મિસ્ટર કટ્સ" with scissors/razor icon.
   - Salon status badge: `Open · Closes 9:00 PM` (or `Closed · Queue paused` if owner closed queue).
   - Language toggle button (`EN | GU`).
   - Navigation links / Quick switch pill for testing (`Join`, `Reception`, `Barber`, `TV Display`, `Admin`).
@@ -72,7 +72,7 @@ This document specifies all 7 screens of the application.
     - **Position == 2 ("Start Coming")**: Prominent amber alert banner: `⚡ Start coming to the salon! Only 1 customer ahead of you.`
     - **Position == 1 / CALLED ("It's your turn!")**: Full-screen luxury gold celebratory modal / banner with pulsing glow and chime: `🎉 It's your turn! Please proceed to chair: [Barber Name]`.
     - **IN_CHAIR**: Green badge: `Currently in chair with [Barber Name]`.
-    - **DONE**: Completed celebration card: `Service finished. Thank you for visiting Royal Shave Salon!`
+    - **DONE**: Completed celebration card: `Service finished. Thank you for visiting Mister Cuts!`
   - **Cancel Option**:
     - Red outlined button: `[ Cancel My Spot / મારી જગ્યા રદ કરો ]`.
     - Opens confirmation dialog: `Are you sure you want to cancel your queue spot?`

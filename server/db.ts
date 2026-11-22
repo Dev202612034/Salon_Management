@@ -148,8 +148,8 @@ function seedInitialData() {
       },
       {
         id: 'srv-5',
-        nameEn: 'Royal Facial & Cleanup',
-        nameGu: 'રોયલ ફેશિયલ અને ક્લીન-અપ',
+        nameEn: 'Mister Cuts Facial & Cleanup',
+        nameGu: 'મિસ્ટર કટ્સ ફેશિયલ અને ક્લીન-અપ',
         durationMin: 40,
         price: 350,
         isActive: true,
@@ -159,8 +159,8 @@ function seedInitialData() {
       },
       {
         id: 'srv-6',
-        nameEn: 'Classic Royal Shave',
-        nameGu: 'રોયલ સેવિંગ',
+        nameEn: 'Classic Mister Shave',
+        nameGu: 'ક્લાસિક મિસ્ટર શેવિંગ',
         durationMin: 20,
         price: 100,
         isActive: true,

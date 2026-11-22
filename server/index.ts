@@ -72,7 +72,7 @@ function broadcastState(callingTicket?: Ticket) {
 app.get('/api/health', (req: Request, res: Response) => {
   res.json({
     status: 'ok',
-    service: 'Salon Queue Management API',
+    service: 'Mister Cuts Queue Management API',
     timestamp: new Date().toISOString(),
   });
 });
@@ -525,7 +525,7 @@ async function startServer() {
   await initDatabase();
   server.listen(PORT, () => {
     console.log(`=================================================`);
-    console.log(` Salon Queue Management System Server Running!   `);
+    console.log(` Mister Cuts Queue Management System Running!    `);
     console.log(` Port: ${PORT}                                   `);
     console.log(` Health: http://localhost:${PORT}/api/health     `);
     console.log(` State:  http://localhost:${PORT}/api/state      `);

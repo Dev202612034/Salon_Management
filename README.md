@@ -1,4 +1,4 @@
-# Salon Queue Management System
+# Mister Cuts — Salon Queue Management System
 
 **Live demo:** https://salon-queue-management.onrender.com
 **Hosted on:** Render (Unified Fullstack Service with Socket.IO + SQLite WASM + React Vite)
@@ -7,7 +7,7 @@
 ---
 
 ## About
-A modern, real-time Salon Queue Management System designed for high-end salons and barbershops. Customers can join the live queue remotely from their smartphones, track their position and estimated wait time, receive a "Start coming to salon" alert when 2nd in line, and get an animated full-screen gold celebration with audio chime when called. 
+A modern, real-time Salon Queue Management System designed specifically for **Mister Cuts** barbershop & grooming lounge. Customers can join the live queue remotely from their smartphones, track their position and estimated wait time, receive a "Start coming to salon" alert when 2nd in line, and get an animated full-screen gold celebration with audio chime when called. 
 
 Receptionists manage walk-ins and chair assignments on a tablet dashboard, barbers control service timers directly at their mirror station, and waiting lounge clients watch a dedicated 1080p kiosk TV display.
 

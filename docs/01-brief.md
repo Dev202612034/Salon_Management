@@ -1,4 +1,4 @@
-# Salon Queue Management System — Project Brief & Scope
+# Mister Cuts — Project Brief & Scope
 
 ## Problem
 On busy days and weekends, salon customers often wait 1 to 2 hours in physical waiting chairs without knowing their exact turn or remaining wait time. Some walk away frustrated, while others dispute who arrived first. Barbers lack visibility on the waiting queue and their upcoming clients, leading to inefficient chair turnover.

@@ -3,8 +3,8 @@ export type Language = 'en' | 'gu';
 export const translations = {
   en: {
     // Brand
-    salonName: 'Royal Shave Salon',
-    salonTagline: 'Luxury Grooming & Queue Management',
+    salonName: 'Mister Cuts',
+    salonTagline: 'Premium Barbershop & Live Queue Management',
     openBadge: 'Open · Closes 9:00 PM',
     closedBadge: 'Queue Paused / Closed',
     
@@ -117,7 +117,7 @@ export const translations = {
     resumeToggle: 'Resume Available',
     
     // TV Display Screen
-    tvTitle: 'ROYAL SHAVE SALON — NOW SERVING',
+    tvTitle: 'MISTER CUTS — NOW SERVING',
     tvSubtitle: 'Real-time Queue Status Display',
     tvStation: 'Station',
     tvNowServing: 'Now Serving',
@@ -156,8 +156,8 @@ export const translations = {
   },
   gu: {
     // Brand
-    salonName: 'રાજવી સલૂન',
-    salonTagline: 'લક્ઝરી ગ્રૂમિંગ અને કતાર વ્યવસ્થાપન',
+    salonName: 'મિસ્ટર કટ્સ',
+    salonTagline: 'પ્રીમિયમ બાર્બરશોપ અને લાઇવ કતાર વ્યવસ્થાપન',
     openBadge: 'ખુલ્લું છે · રાત્રે 9:00 વાગ્યે બંધ થશે',
     closedBadge: 'ઓનલાઇન કતાર બંધ છે',
     
@@ -270,7 +270,7 @@ export const translations = {
     resumeToggle: 'પાછા હાજર થાઓ',
     
     // TV Display Screen
-    tvTitle: 'રાજવી સલૂન — હવે વારો છે',
+    tvTitle: 'મિસ્ટર કટ્સ — હવે વારો છે',
     tvSubtitle: 'લાઇવ વેઇટિંગ એરિયા ટીવી ડિસ્પ્લે',
     tvStation: 'સ્ટેશન',
     tvNowServing: 'હવે વારો છે',

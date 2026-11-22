@@ -1,6 +1,6 @@
-# AGENTS.md — Salon Queue Management System
+# AGENTS.md — Mister Cuts Salon Queue Management System
 
-Queue app for a salon: customers join from their phone, see wait time, get called; reception and barbers manage the queue; waiting area TV display.
+Queue app for Mister Cuts: customers join from their phone, see wait time, get called; reception and barbers manage the queue; waiting area TV display.
 
 ## Read First
 - `docs/01-brief.md` -> features + what NOT to build

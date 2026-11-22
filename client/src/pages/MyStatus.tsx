@@ -285,7 +285,7 @@ export const MyStatus: React.FC<MyStatusProps> = ({ ticketId, navigate }) => {
               {t('statusDone')}
             </h3>
             <p className="text-xs text-slate-300">
-              Thank you for visiting Royal Shave Salon. Look sharp!
+              Thank you for visiting Mister Cuts. Look sharp!
             </p>
             <button
               onClick={() => navigate('/join')}
