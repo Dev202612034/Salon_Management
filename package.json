@@ -1,0 +1,42 @@
+{
+  "name": "salon-queue-management",
+  "version": "1.0.0",
+  "description": "Premium Salon Queue Management System with Real-Time Sync (Socket.IO, SQLite, React, Tailwind CSS)",
+  "main": "server/index.ts",
+  "scripts": {
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "dev:server": "tsx watch server/index.ts",
+    "dev:client": "npm --prefix client run dev",
+    "build": "npm --prefix client run build",
+    "start": "tsx server/index.ts",
+    "test": "vitest run"
+  },
+  "keywords": [
+    "salon",
+    "queue",
+    "realtime",
+    "socketio",
+    "sqlite",
+    "react",
+    "tailwind"
+  ],
+  "author": "Dev Malhotra",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1",
+    "sql.js": "^1.12.0"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.10.2",
+    "@types/sql.js": "^1.4.9",
+    "concurrently": "^9.1.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.2",
+    "vitest": "^2.1.8"
+  }
+}
