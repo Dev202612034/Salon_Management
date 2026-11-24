@@ -96,7 +96,8 @@ Salon_Management/
 │   └── src/queueRules.ts # Single source of truth for queue rules
 ├── docs/            # Specifications and flow rules
 ├── tests/           # Automated test suite
-├── prompts.md       # Chronological prompts log & reflection
+├── prompts.md       # Chronological AI prompts log
+├── reflection.md    # Half-page reflection (what went wrong & how we fixed it)
 └── README.md        # Project documentation
 ```
 
