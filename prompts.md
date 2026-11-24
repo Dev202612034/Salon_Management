@@ -101,7 +101,7 @@ This document contains the chronological record of the **8 core prompts given to
 > 3. Configure the Express backend to serve the production Vite frontend bundle on a single unified port, generate deployment files for Render, and provide the live demo link in `README.md`."*
 
 - **What the Agent Did**: Created `client/src/i18n/translations.ts` and `LanguageContext.tsx`, rebranded all headers, labels, and badges to "Mister Cuts", polished the color scheme with glassmorphic cards, added `render.yaml` and `vercel.json`, and tested full production build.
-- **Outcome [SUCCESS]**: Project achieved 100% test pass rate, unified static serving on port 3001, and live deployment on Render at `https://salon-queue-management.onrender.com`.
+- **Outcome [SUCCESS]**: Project achieved 100% test pass rate, unified static serving on port 3001, and live deployment on Render at `https://salon-management-1-i2dp.onrender.com/`.
 
 ---
 

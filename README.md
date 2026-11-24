@@ -1,6 +1,7 @@
 # Mister Cuts — Salon Queue Management System
 
-**Live Demo:** https://salon-queue-management.onrender.com  
+**Live Demo:** [Mister Cuts — Smart Salon Queue Management System](https://salon-management-1-i2dp.onrender.com/)  
+**GitHub Repository:** [https://github.com/Dev202612034/Salon_Management](https://github.com/Dev202612034/Salon_Management)  
 **Staff / Owner PIN:** `1234`
 
 ---
